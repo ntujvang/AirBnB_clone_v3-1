@@ -62,6 +62,7 @@ Where we are creating a command line interpretor to access objects that will sto
 - **Jianqin Wang**, \<jianqin.wang@holbertonschool.com>, @jianqinwang94
 - **Anne Cognet**, \<anne.cognet@holbertonschool.com>, @1million40
 - **Richard Sim**, \<richard.sim@holbertonschool.com>, @rdsim8589
+- **Ntuj Vang**, \<ntuj.vang@holbertonschool.com>, @yogmazoophem
 
 ----------------------------------------
 
